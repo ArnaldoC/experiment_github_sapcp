@@ -1,7 +1,7 @@
 Here is an initial test file.
 1
 2
-3
+3 - master change on line '3' (really 4)
 4
 5
 6
