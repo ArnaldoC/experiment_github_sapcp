@@ -2,7 +2,11 @@
 2
 3
 4
+<<<<<<< HEAD
 5 - Master change on line 5
+=======
+5 - Experimental change on line 5
+>>>>>>> 69cd37b1723114e5b3130dc29aa853285f556dbd
 6
 7
 8
