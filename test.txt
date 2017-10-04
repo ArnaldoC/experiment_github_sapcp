@@ -1,6 +1,6 @@
 1 - Here is an initial test file.
 2
-3 - master change on line 3
+3 - master/rebase change on line 3
 4
 5
 6
