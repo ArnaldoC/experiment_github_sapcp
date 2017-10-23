@@ -1,7 +1,7 @@
 1 - HERE is an initial test file.
-2 - Modified in IDE (on origin_branch)
-3 - Created in IDE (on origin_branch)
-4 - Created in IDE (on origin_branch)
+2
+3
+4
 5
 6 
 7 
